@@ -1,0 +1,54 @@
+[submodule "git/http-parser"]
+  path = git/http-parser
+  url = https://github.com/joyent/http-parser
+[submodule "git/libevent"]
+  path = git/libevent
+  url = https://github.com/bassosimone/libevent
+[submodule "git/Catch"]
+  path = git/Catch
+  url = https://github.com/philsquared/Catch
+[submodule "git/boost/src/iterator"]
+  path = git/boost/iterator
+  url = https://github.com/boostorg/iterator
+[submodule "git/boost/src/static_assert"]
+  path = git/boost/static_assert
+  url = https://github.com/boostorg/static_assert
+[submodule "git/boost/src/config"]
+  path = git/boost/config
+  url = https://github.com/boostorg/config
+[submodule "git/boost/src/core"]
+  path = git/boost/core
+  url = https://github.com/bassosimone/libight-boost-core
+[submodule "git/boost/src/mpl"]
+  path = git/boost/mpl
+  url = https://github.com/boostorg/mpl
+[submodule "git/boost/src/preprocessor"]
+  path = git/boost/preprocessor
+  url = https://github.com/boostorg/preprocessor
+[submodule "git/boost/src/type_traits"]
+  path = git/boost/type_traits
+  url = https://github.com/boostorg/type_traits
+[submodule "git/boost/src/detail"]
+  path = git/boost/detail
+  url = https://github.com/boostorg/detail
+[submodule "git/boost/src/smart_ptr"]
+  path = git/boost/smart_ptr
+  url = https://github.com/boostorg/smart_ptr
+[submodule "git/boost/src/assert"]
+  path = git/boost/assert
+  url = https://github.com/boostorg/assert
+[submodule "git/boost/src/throw_exception"]
+  path = git/boost/throw_exception
+  url = https://github.com/boostorg/throw_exception
+[submodule "git/boost/src/predef"]
+  path = git/boost/predef
+  url = https://github.com/boostorg/predef
+[submodule "git/boost/src/typeof"]
+  path = git/boost/typeof
+  url = https://github.com/boostorg/typeof
+[submodule "git/boost/src/utility"]
+  path = git/boost/utility
+  url = https://github.com/boostorg/utility
+[submodule "git/yaml-cpp/src/yaml-cpp"]
+  path = git/yaml-cpp
+  url = https://github.com/bassosimone/yaml-cpp.git
