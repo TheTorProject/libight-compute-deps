@@ -8,21 +8,21 @@ get() {
 }
 
 rm -rf tmp/*
-get philsquared/Catch 76edbc1 Catch
-get boostorg/assert boost-1.56.0 boost/assert
-get boostorg/config boost-1.56.0 boost/config
-get bassosimone/libight-boost-core boost-1.56.0-5-g348f24b boost/core
-get boostorg/detail boost-1.56.0 boost/detail
-get boostorg/iterator boost-1.56.0 boost/iterator
-get boostorg/mpl boost-1.56.0 boost/mpl
-get boostorg/predef boost-1.58.0~3^2~2 boost/predef
-get boostorg/preprocessor boost-1.56.0 boost/preprocessor
-get boostorg/smart_ptr boost-1.56.0-18-g8afd3be boost/smart_ptr
-get boostorg/static_assert boost-1.56.0 boost/static_assert
-get boostorg/throw_exception boost-1.56.0 boost/throw_exception
-get boostorg/type_traits boost-1.56.0 boost/type_traits
-get boostorg/typeof boost-1.56.0 boost/typeof
-get boostorg/utility boost-1.56.0 boost/utility
-get joyent/http-parser v2.1-47-g1b31580 http-parser
-get bassosimone/libevent release-2.0.21-stable-52-g86b586a libevent
-get bassosimone/yaml-cpp master yaml-cpp
+get philsquared/Catch c51e86819dc99 Catch
+get boostorg/assert boost-1.58.0 boost/assert
+get boostorg/config boost-1.58.0 boost/config
+get measurement-kit/measurement-kit-boost-core stable boost/core
+get boostorg/detail boost-1.58.0 boost/detail
+get boostorg/iterator boost-1.58.0 boost/iterator
+get boostorg/mpl boost-1.58.0 boost/mpl
+get boostorg/predef boost-1.58.0 boost/predef
+get boostorg/preprocessor boost-1.58.0 boost/preprocessor
+get boostorg/smart_ptr boost-1.58.0 boost/smart_ptr
+get boostorg/static_assert boost-1.58.0 boost/static_assert
+get boostorg/throw_exception boost-1.58.0 boost/throw_exception
+get boostorg/type_traits boost-1.58.0 boost/type_traits
+get boostorg/typeof boost-1.58.0 boost/typeof
+get boostorg/utility boost-1.58.0 boost/utility
+get joyent/http-parser v2.5.0 http-parser
+get libevent/libevent release-2.0.22-stable libevent
+get jbeder/yaml-cpp b426fafff6238dda8d yaml-cpp
