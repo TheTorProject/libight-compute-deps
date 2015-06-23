@@ -1,3 +1,3 @@
 [submodule "libight-deps"]
-	path = libight-deps
-	url = https://github.com/TheTorProject/libight-deps
+	path = measurement-kit-deps
+	url = https://github.com/measurement-kit/measurement-kit-deps
