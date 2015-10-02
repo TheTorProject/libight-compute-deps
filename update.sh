@@ -4,7 +4,8 @@
 get() {
   git clone https://github.com/$1 tmp/$1
   (cd tmp/$1 && git checkout $2)
-  (cd tmp/$1 && git archive --prefix=$3/ HEAD) | (cd libight-deps && tar -xf-)
+  (cd tmp/$1 && git archive --prefix=$3/ HEAD) | \
+    (cd measurement-kit-deps && tar -xf-)
 }
 
 rm -rf tmp/*
